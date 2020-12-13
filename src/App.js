@@ -2,12 +2,14 @@ import React, { useState } from "react";
 import "./styles.css";
 
 var emojiDictionary = {
-  "😂 ": "Face with Tears of Joy",
-  "😁 ": "Beaming Face with Smiling Eyes",
-  "😏 ": "Smirking Face",
-  "🥳": "Partying Face",
-  "🥺": "Pleading Face",
-  "😈": "Smiling Face with Horns"
+  "🇦🇺": "Flag: Australia",
+  "🇧🇷": "Flag: Brazil",
+  "🇩🇪": "Flag: Germany",
+  "🇮🇳": "Flag: India",
+  "🇰🇷": "Flag: South Korea",
+  "🇯🇵": "Flag: Japan",
+  "🇺🇸": "Flag: United States",
+  "🇬🇪": "Flag: Georgia"
 };
 
 const emojisWeKnow = Object.keys(emojiDictionary);
