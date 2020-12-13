@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: purple;
+}
+
+.input {
+  height: 8vh;
+  width: 20rem;
+  color: green;
+}
+
+.mean {
+  margin: 1rem;
+  color: peru;
+}
+
+.know {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.item {
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 0.5rem;
+}
