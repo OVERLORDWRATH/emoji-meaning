@@ -39,7 +39,7 @@ export default function App() {
       <input onChange={emojiInputHandler} className="input" />
       <div className="mean"> {mean} </div>
 
-      <div className="know">Emojis we knows</div>
+      <div className="know">Flags we knows</div>
       {emojisWeKnow.map((item) => {
         return (
           <span
