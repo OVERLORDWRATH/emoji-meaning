@@ -1,8 +1,4 @@
-# emoji-meaning
-Created with CodeSandbox
-
-It give knowledge of flags.
-
+# Flag Knowledge
 
 - This app will give you the knowledge of flags. Select any flag displayed and get its meaning
 - This app is made using React JS
